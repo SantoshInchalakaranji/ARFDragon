@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Data/Scenes/ARFDragon.unity
+    guid: f8e55556c9ce5f54496034513ad3b630
+  m_configObjects:
+    UnityEditor.XR.ARCore.ARCoreSettings: {fileID: 11400000, guid: c4b5002a1e4a5b84eb48aa27d1cb788f, type: 2}
+    UnityEditor.XR.ARKit.ARKitSettings: {fileID: 11400000, guid: 5fd0133c18795834d86eb38e3969822e, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 725e7d18b5b9e404b9b529ac84514d45, type: 2}
